@@ -1,0 +1,8 @@
+source_id,display_name,source_type,sebi_registered,data_origin
+src_s01,Syn Channel A,telegram,false,synthetic
+src_s02,Syn Channel B,youtube,false,synthetic
+src_s03,Syn Channel C,telegram,false,synthetic
+src_s04,Syn Channel D,telegram,false,synthetic
+src_s05,Syn Channel E,x,false,synthetic
+src_s06,Syn Advisor F,youtube,true,synthetic
+

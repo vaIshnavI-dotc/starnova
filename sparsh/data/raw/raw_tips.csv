@@ -1,0 +1,13 @@
+source_id,source_type,posted_at,raw_text,data_origin,notes
+src_s01,telegram,2025-08-12T03:30:00Z,"RELIANCE buy above 1450 target 1520 SL 1420 swing 2 weeks",synthetic,posted before market open
+src_s01,telegram,2025-08-19T05:00:00Z,"TCS sure shot 3400 target in 10 days buy now",synthetic,certainty language
+src_s02,youtube,2025-09-02T06:30:00Z,"ITC buy target 480 in 3 weeks good breakout",synthetic,time assumed
+src_s02,youtube,2025-09-16T06:30:00Z,"SBIN buy target 850 stop loss 790 positional",synthetic,time assumed
+src_s03,telegram,2025-09-03T04:00:00Z,"Bhai SUZLON pakka 72 jayega is hafte buy abhi",synthetic,hinglish; coordination cluster
+src_s04,telegram,2025-09-03T04:20:00Z,"SUZLON rocket banega target 72 sure shot buy now",synthetic,coordination cluster
+src_s05,x,2025-09-03T05:10:00Z,"$SUZLON breakout buy above 62 target 72 this week",synthetic,coordination cluster
+src_s06,youtube,2025-09-03T06:30:00Z,"SUZLON watch only, avoid chasing at this level",synthetic,registered source; neutral
+src_s01,telegram,2025-09-06T04:30:00Z,"INFY buy target 1750 in 2 weeks stoploss 1680",synthetic,Saturday post; tests entry rule
+src_s03,telegram,2025-10-14T14:30:00Z,"YESBANK double hoga 3 mahine mein target 40 buy",synthetic,posted after market close
+src_s04,telegram,2025-10-21T03:45:00Z,"IDEA sure shot jackpot target 12 buy now guaranteed",synthetic,certainty language
+src_s06,youtube,2025-10-28T06:30:00Z,"HDFCBANK sell below 1900 target 1820 short term",synthetic,bearish call
